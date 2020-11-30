@@ -2,8 +2,6 @@
 
 ## Here are some of the projects:
 <ul>
-  <ol>
-  Taxi demand prediction
+  <h4>1.Taxi demand prediction</h4>
   <li>This is project based on new york yellow taxi demand data.</li>
-  <ol>
 </ul>
